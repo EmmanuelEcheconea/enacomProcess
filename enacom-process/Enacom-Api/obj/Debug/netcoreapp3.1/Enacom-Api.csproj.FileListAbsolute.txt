@@ -2,7 +2,6 @@ D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\ap
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\appsettings.json
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Enacom-Api.exe
-D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.csprojAssemblyReference.cache
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.AssemblyInfoInputs.cache
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.AssemblyInfo.cs
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.RazorTargetAssemblyInfo.cache
@@ -32,3 +31,13 @@ D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\My
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Enacom-Api.deps.json
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Enacom-Api.runtimeconfig.json
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Enacom-Api.runtimeconfig.dev.json
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Enacom-Api.dll
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\bin\Debug\netcoreapp3.1\Enacom-Api.pdb
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.dll
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.pdb
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.genruntimeconfig.cache
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.csproj.CoreCompileInputs.cache
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.MvcApplicationPartsAssemblyInfo.cache
