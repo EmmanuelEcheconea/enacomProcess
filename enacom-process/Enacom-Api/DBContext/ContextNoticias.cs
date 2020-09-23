@@ -9,7 +9,7 @@ namespace Enacom_Api.DBContext
 {
     public class ContextNoticias : DbContext
     {
-        public DbSet<Noticias> noticias { get; set; }
+        public DbSet<Noticias> noticias{ get; set; }
 
         public ContextNoticias (DbContextOptions<ContextNoticias> options): base(options)
         {
