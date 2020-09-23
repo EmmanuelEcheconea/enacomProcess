@@ -16,11 +16,11 @@ namespace Enacom_Api.Entity
          * imagen (quien lo manda, enacom, afip, etc)
          */
 
-        public Guid id { get; set; }
+        public int id { get; set; }
         public string destinatario { get; set; }
         public string titulo { get; set; }
         public string descripcion { get; set; }
-        public string url { get; set; }
+        public string urlAplicacion { get; set; }
         public string  imagen { get; set; }
 
 
