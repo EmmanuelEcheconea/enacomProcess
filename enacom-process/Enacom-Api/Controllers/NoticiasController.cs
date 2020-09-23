@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Enacom_Api.Entity;
+using Enacom_Api.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,13 +13,19 @@ namespace Enacom_Api.Controllers
     [ApiController]
     public class NoticiasController : ControllerBase
     {
+        NoticiasServices noticiasServicies = new NoticiasServices();
 
         [HttpGet]
         [Route("obtenerNoticias")]
-        public void GetNoticias()
+        public List<Noticias> GetNoticias()
         {
+            List<Noticias> noticias = noticiasServicies.getNoticias();
 
+
+            return noticias;
         }
+
+
 
         [HttpGet]
         [Route("obtenerNoticia")]
