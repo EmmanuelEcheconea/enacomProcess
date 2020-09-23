@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Enacom_Api.DBContext
 {
-    public class DBContext : DbContext
+    public class ContextNoticias : DbContext
     {
         public DbSet<Noticias> noticias { get; set; }
 
-        public DBContext (DbContextOptions<DBContext> options): base(options)
+        public ContextNoticias (DbContextOptions<ContextNoticias> options): base(options)
         {
             //
         }
