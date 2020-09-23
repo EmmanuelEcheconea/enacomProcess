@@ -13,7 +13,7 @@ namespace Enacom_Api.DBContext
 
         public DBContext (DbContextOptions<DBContext> options): base(options)
         {
-
+            //
         }
 
 
