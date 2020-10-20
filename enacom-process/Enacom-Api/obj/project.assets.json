@@ -940,26 +940,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\x-dan\\.nuget\\packages\\": {}
+    "C:\\Users\\Abel\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\x-dan\\OneDrive\\Documentos\\GitHub\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
+      "projectUniqueName": "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
       "projectName": "Enacom-Api",
-      "projectPath": "C:\\Users\\x-dan\\OneDrive\\Documentos\\GitHub\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
-      "packagesPath": "C:\\Users\\x-dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\x-dan\\OneDrive\\Documentos\\GitHub\\enacomProcess\\enacom-process\\Enacom-Api\\obj\\",
+      "projectPath": "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\Enacom-Api.csproj",
+      "packagesPath": "C:\\Users\\Abel\\.nuget\\packages\\",
+      "outputPath": "D:\\ReposDeGit\\enacomProcess\\enacom-process\\Enacom-Api\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\x-dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Abel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://packagesdesa.trabajo.gob.ar/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1007,6 +1013,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1015,7 +1027,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
