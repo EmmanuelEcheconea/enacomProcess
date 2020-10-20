@@ -29,7 +29,7 @@ namespace Enacom_Api.Controllers
         {
             List<Noticias> noticias = noticiasServicies.getNoticias();
 
-            return context.noticias.ToList();
+            return context.noticias.OrderByDescending(x => x.id).ToList();
         }
 
 

@@ -85,3 +85,4 @@ C:\Users\x-dan\OneDrive\Documentos\GitHub\enacomProcess\enacom-process\Enacom-Ap
 C:\Users\x-dan\OneDrive\Documentos\GitHub\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.dll
 C:\Users\x-dan\OneDrive\Documentos\GitHub\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.pdb
 C:\Users\x-dan\OneDrive\Documentos\GitHub\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.genruntimeconfig.cache
+D:\ReposDeGit\enacomProcess\enacom-process\Enacom-Api\obj\Debug\netcoreapp3.1\Enacom-Api.csprojAssemblyReference.cache
